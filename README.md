@@ -40,8 +40,8 @@ US Choropleth Map: A color-coded map showing delinquency intensity by state.
 Dynamic Filtering: Users can drill down from national trends to specific counties.
 
 ## 🚀 Results & Demo
-The final dashboard features a three-row layout designed for a high-level executive view and deep-dive granular analysis.
+The final dashboard features a three-row layout designed for a high-level executive view and deep-dive granular analysis.  
 
-Dashboard Preview
-Watch the Demonstration:
+Dashboard Preview  
+Watch the Demonstration:  
 Mortgages Delinquency Rate.mp4
