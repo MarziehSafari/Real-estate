@@ -21,8 +21,8 @@ Understand the long-term recovery cycles following major events like the 2008 Fi
 *1. Data Acquisition*  
 Data is retrieved programmatically from the Consumer Financial Protection Bureau (CFPB), specifically their "Mortgage Performance Trends" dataset.
 
-Source: CFPB Mortgage Performance Trends  
-<a href=\"https://www.consumerfinance.gov/data-research/mortgage-performance-trends/\"> Mortgage performance trends </a>\n
+Retrieve the data from Consumer Financial Protection Bureau, US government agency at: \n",
+    "    <a href=\"https://www.consumerfinance.gov/data-research/mortgage-performance-trends/\"> Mortgage performance trends </a>\n",
 
 *2. Data Wrangling*  
 Cleaning, Formatting, and Aggregation
